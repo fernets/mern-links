@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Volodymyr is studying MERN",
+  "mongoUri": "mongodb+srv://volodymyr:imRC1KYAziyjb8SP@cluster0.himdt.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
